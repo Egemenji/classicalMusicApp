@@ -1,0 +1,109 @@
+export const classicalMusics = [
+    {
+        id:1,
+        name:'Açık Kapı',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:2,
+        name:'Yolculuk',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:3,
+        name:'Aydınlanma',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:4,
+        name:'Dolunay',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:5,
+        name:'Gece Işığı',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:6,
+        name:'Gecenin Gücü',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:7,
+        name:'Harmoni',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:8,
+        name:'Lacrimosa',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:9,
+        name:'Mehtap',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:10,
+        name:'Merhamet',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:11,
+        name:'Parlak Gelecek',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:12,
+        name:'Prana',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:13,
+        name:'Sessiz Bir Gün',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:14,
+        name:'Şimşek',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },    
+    {
+        id:15,
+        name:'Sonsuz Ufuk',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:16,
+        name:'Tefekkür',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:17,
+        name:'Uyanış',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:18,
+        name:'Yakamoz',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:19,
+        name:'Yalın',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:20,
+        name:'Yansıma',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    {
+        id:21,
+        name:'Yıldızların Dansı',
+        img:'https://upload.wikimedia.org/wikipedia/commons/2/26/Tiger_%27Four%27.jpg'
+    },
+    
+
+]
